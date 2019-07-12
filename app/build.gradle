@@ -5,7 +5,7 @@ android {
     buildToolsVersion "28.0.3"
 
     defaultConfig {
-        applicationId "com.wizzer.mle.title.modeltest"
+        applicationId "com.wizzer.mle.title.cubetest"
         minSdkVersion 23
         targetSdkVersion 26
         versionCode 1
